@@ -30,3 +30,5 @@ if (tipoDePagamento === "debito") {
   precoFinal = preco + preco * 0.1;
 }
 console.log(`O preco final é R$${precoFinal}`);
+
+// teste commi no vscode
